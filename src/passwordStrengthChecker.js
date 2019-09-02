@@ -53,7 +53,7 @@ export default class PasswordStrengthChecker extends React.Component {
 
         return (
             <div className="passwordChecker">
-                <input onChange={(event)=>this.updatePasswordState(event)} type="text"/>
+                <input onChange={(event)=>this.updatePasswordState(event)} type="password"/>
                 <div className="maxStrengthCircle">
                     <div style={{
                         fontSize,
