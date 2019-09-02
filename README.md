@@ -1,3 +1,15 @@
+# React Password Strength Estimator
+
+## Synposis
+- A component for providing client-side feedback on password strength
+
+## Key Features
+- Unit Testing of password strength calculation
+- Visual feedback for password strength in the component
+
+
+# React Boilerplate Instructions
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
